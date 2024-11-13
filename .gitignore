@@ -1,0 +1,14 @@
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+
+# Ignore macOS system files
+.DS_Store
+.Trash/
+
+# Ignore virtual environments
+venv/
+
+# Ignore Git directory
+.git/
+
